@@ -1,11 +1,11 @@
 Mikayla Timm (pronounced "mi" like in Mickey Mouse, "kay" like in okay, "luh" like in lucky)
-Project 5
+Project 5: Data Structures and Algorithms 2
 12/6/15
 
 How to run the project:
 
-cd to the mtimm-p5 directory.
-Place in your matrixData.txt and MatrixDimensions.txt. The ones in there are right now are the ones you sent in the email.
+cd to the OptimalParens directory.
+Place in your matrixData.txt and MatrixDimensions.txt. Default files are already included.
 Then to run in command line, type:
 make
 ./test
